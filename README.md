@@ -1,5 +1,5 @@
-# guestb2b-remediate
 ```html
+# guestb2b-remediate
 <h2>Restrict guest user access to applications</h2>
 
 Demand for external collaboration and sharing of documents with 3rd parties is constantly growing. Global initiatives are in the process of selecting tactical solutions due to the lack of strategic, enterprise-wide, easy-to-use external collaboration capabilities.
@@ -32,11 +32,11 @@ Rn.txt	--> ALL-MEMBER-USERS-Rn
 
 Input File example (with the header)
 
-ObjectId<br>
-650c92f1-9477-493a-bb92-5e4b3c60c398<br>
-df32279e-e297-4831-b22e-09ce222e1606<br>
-225971fb-75cb-427e-a9d1-1955e647ba7b<br>
-e1d73369-bc15-41e1-aa5e-3a5376927da2<br>
-5fb098d3-8fcf-4ae1-bd40-89ff2bfb1912<br>
-01cc0374-d82a-44f3-870e-ad2bcad8a87e<br>
+ObjectId
+650c92f1-9477-493a-bb92-5e4b3c60c398
+df32279e-e297-4831-b22e-09ce222e1606
+225971fb-75cb-427e-a9d1-1955e647ba7b
+e1d73369-bc15-41e1-aa5e-3a5376927da2
+5fb098d3-8fcf-4ae1-bd40-89ff2bfb1912
+01cc0374-d82a-44f3-870e-ad2bcad8a87e
 ```
