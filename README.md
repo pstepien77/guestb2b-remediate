@@ -14,14 +14,14 @@ To remediate guest access apply following changes at application Service Princip
 
 Dynamic Groups usage limitation:
 
--	An undocumented limitation on the number of AppRoleAssignments that may be associated with a group (Microsoft confirmed 1500 assignments)
--	A bug that prevents errors from being reported when this limitation is reached.
--	A bug that only allows for a maximum of 999 AppRoleAssignments from being read/listed
+- An undocumented limitation on the number of AppRoleAssignments that may be associated with a group (Microsoft confirmed 1500 assignments)
+- A bug that prevents errors from being reported when this limitation is reached.
+- A bug that only allows for a maximum of 999 AppRoleAssignments from being read/listed
 
 Prerequisites
--	AzureAD or AzureADPreview PowerShell module available/installed.
--	PowerShell session successfully connected to target Azure tenant with Connect-AzureAD cmdlet. 
--	List of target Service Principals identifiers available, mapped to target dynamic group (no more than 950 objects per file):
+- AzureAD or AzureADPreview PowerShell module available/installed.
+- PowerShell session successfully connected to target Azure tenant with Connect-AzureAD cmdlet. 
+- List of target Service Principals identifiers available, mapped to target dynamic group (no more than 950 objects per file):
 
 Input file name with Service Principals	Target dynamic group
 
