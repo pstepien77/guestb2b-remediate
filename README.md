@@ -1,6 +1,6 @@
 ```html
 # guestb2b-remediate
-<h2>Restrict guest user access to applications</h2>
+Restrict guest user access to applications
 
 Demand for external collaboration and sharing of documents with 3rd parties is constantly growing. Global initiatives are in the process of selecting tactical solutions due to the lack of strategic, enterprise-wide, easy-to-use external collaboration capabilities.
 One of the key priority controls is to increase security for our Azure AD environments, and apply access restrictions to applications in the Azure AD tenants, that are intended to be accessed only by company employees and contractors.
